@@ -50,7 +50,7 @@
 
 <div align="left">
   <img align="left" height="150" src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=true&username=gustavommartins"/>
-  <img align="right" height="150" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMMartins&layout=compact&theme=material-palenight&hide_title=true" />
+  <img align="right" height="170" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMMartins&layout=compact&theme=material-palenight&hide_title=true" />
 </div>
   
 
