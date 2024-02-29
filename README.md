@@ -1,59 +1,100 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+## Sobre mim
 
-###
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 💼 Trabalhando como Engenheiro de Software Java na BRQ Digital Solutions.
+- 🌱 Aprendendo mais sobre Java, AWS e Docker.
 
-<h2 align="left">About me</h2>
+## Minhas Skills
 
-###
+**Aplicações e dados**
 
-<p align="left">Oi me chamo Gustavo, sou desenvolvedor full-stack, atualmente trabalho com java e angular.</p>
 
-###
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=spring&logoColor=007396)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=00599C)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
+![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
 
-<h2 align="left">I code with</h2>
+**Utilidades**
 
-###
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
-<img align="right" height="200" src="https://github.com/GustavoMMartins/GustavoMMartins/blob/main/image/computer-illustration.png?raw=true"  />
+**DevOps**
 
-###
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Bitbucket](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-</div>
+**Ferramentas de desenvolvimento**
 
-###
-
-<h2 align="left">Frameworks and others</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" width="52" alt="spring logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" width="52" alt="angularjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="52" alt="amazonwebservices logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" width="52" alt="oracle logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
-</div>
-
-###
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 
 <br/>
 
-<div align="left">
-  <img align="left" height="150" src="https://github-readme-stats.vercel.app/api?show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=true&username=gustavommartins"/>
-  
-  <img align="right" height="170" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMMartins&layout=compact&theme=material-palenight&hide_title=true" />
+<a href="https://github.com/gustavommartins" title="Perfil do Gustavo Martins">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavommartins&theme=dracula&show_icons=true" />
+</a>
+
+### Experiência de trabalho
+
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/D4D0BAQE7_Z1WtNnoYA/company-logo_200_200/0/1688483327395/brq_logo?e=1717027200&v=beta&t=25GRnwBUW5qw0fbJTJT5KLDbEvQ6xeD2cK99_-L5HcQ"/>](https://www.brq.com/) 
+
+<div style="margin-left:100px">
+
+**Software Engineer** \
+[**BRQ**](https://www.brq.com/) • Full-time \
+Linguagens & Tecnologias: `Java`, `AWS`, `Docker`, `Git`, `Github`\
+Projetos em destaque: [Itaú](https://www.itau.com.br/)
+
 </div>
-  
 
 
-###
+[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://media.licdn.com/dms/image/C4D0BAQFt7orYWPc9MQ/company-logo_200_200/0/1630537692227/dxctechnology_logo?e=1717027200&v=beta&t=fssDndlBM9lXhfYEIOe9jkbfWpkVmoVRXJteCDWcC5Q"/>](https://rocketseat.com.br/)
+
+<div style="margin-left:100px">
+
+**Software Engineer** \
+[**DXC Technology**](https://dxc.com/br/pt) • Full-time \
+Linguagens & Tecnologias: `Java`, `Angular`, `Docker`, `Git`, `Gitlab`, `Oracle DB`\
+Projetos em destaque: [Petrobras](https://petrobras.com.br/)
+
+</div>
+
+
+[<img align="left" height="94px" width="94px" alt="Nubank" src="https://media.licdn.com/dms/image/D4D0BAQGoAuouulr_EQ/company-logo_200_200/0/1705321986785/lumis_logo?e=1717027200&v=beta&t=2kw1RPVL-PUUhXjTuzCvwTKGWiJvPNRIpq88Wgofae4"/>](https://www.lumis.com.br/)
+
+<div style="margin-left:100px">
+
+**Desenvolvedor Full-Stack** \
+[**Nubank**](https://www.lumis.com.br/) • Full-time \
+Linguagens & Tecnologias: `Java`, `Angular`, `Docker`, `Git`, `Gitlab`, `Oracle`\
+Projetos em destaque: [Previ](https://www.previ.com.br/portal-previ/)
+
+</div>
+
+[<img align="left" height="94px" width="94px" alt="Nubank" src="https://media.licdn.com/dms/image/C4E0BAQHkXmYPlxlOew/company-logo_200_200/0/1630593705779?e=1717027200&v=beta&t=LhEKugWuRPBhdXfj8CftuheXOKI71kbKLZvNY0u4cK8"/>](https://mestrainfo.com.br/site/)
+
+<div style="margin-left:100px">
+
+**Desenvolvedor Full-Stack** \
+[**Mestra Informática e Tecnologia**](https://mestrainfo.com.br/site/) • Full-time \
+Linguagens & Tecnologias: `Java`, `Angular`, `Docker`, `Git`, `Gitlab`, `Oracle`, `SQL Server`\
+Projetos em destaque: [Prevdata](https://www.prevdata.org.br/)
+
+</div>
+
+## Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/-Gustavo_Martins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-martins-7170a419a/)](https://www.linkedin.com/in/gustavo-martins-7170a419a/)
+[![GitHub](https://img.shields.io/github/followers/gustavommartins?label=Gustavo&style=social)](https://github.com/gustavommartins)
