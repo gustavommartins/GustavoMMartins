@@ -77,7 +77,7 @@ Projetos em destaque: [Petrobras](https://petrobras.com.br/)
 <div style="margin-left:100px">
 
 **Desenvolvedor Full-Stack** \
-[**Nubank**](https://www.lumis.com.br/) • Full-time \
+[**Lumis**](https://www.lumis.com.br/) • Full-time \
 Linguagens & Tecnologias: `Java`, `Angular`, `Docker`, `Git`, `Gitlab`, `Oracle`\
 Projetos em destaque: [Previ](https://www.previ.com.br/portal-previ/)
 
