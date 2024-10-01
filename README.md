@@ -48,7 +48,7 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/D4D0BAQE7_Z1WtNnoYA/company-logo_200_200/0/1688483327395/brq_logo?e=1725494400&v=beta&t=JVO09kLts0xsvbYbwmYYn3AwhohYyCgoEjNT0iBAQWo"/>](https://www.brq.com/) 
+[<img align="left" height="94px" width="94px" alt="BRQ" src="https://media.licdn.com/dms/image/v2/D4D0BAQE7_Z1WtNnoYA/company-logo_100_100/company-logo_100_100/0/1688483327395/brq_logo?e=1735776000&v=beta&t=S2oSYZtiOBnVsC3_sZDhPs7mYVhQnw1b5L77WCPaysI"/>](https://www.brq.com/) 
 
 <div style="margin-left:100px">
 
@@ -60,7 +60,7 @@ Projetos em destaque: [Itaú](https://www.itau.com.br/)
 </div>
 
 
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://media.licdn.com/dms/image/C4D0BAQFt7orYWPc9MQ/company-logo_200_200/0/1630537692227/dxctechnology_logo?e=1725494400&v=beta&t=W3dkU7D0MveUn7jdACDBZJyq-0gWCHPpSA3spC-4VFc"/>](https://dxc.com/br/pt)
+[<img align="left" height="94px" width="94px" alt="DXC Technology" src="https://media.licdn.com/dms/image/v2/C4D0BAQFt7orYWPc9MQ/company-logo_100_100/company-logo_100_100/0/1630537692227/dxctechnology_logo?e=1735776000&v=beta&t=5c0KTPdXT4DJ_qz62eDsoR-SWWVDv17VRi9Y9wLogrM"/>](https://dxc.com/br/pt)
 
 <div style="margin-left:100px">
 
@@ -72,7 +72,7 @@ Projetos em destaque: [Petrobras](https://petrobras.com.br/)
 </div>
 
 
-[<img align="left" height="94px" width="94px" alt="Nubank" src="https://media.licdn.com/dms/image/D4D0BAQGoAuouulr_EQ/company-logo_100_100/0/1705321986785/lumis_logo?e=1725494400&v=beta&t=RMEBHOv4Oc1XldQHGHx6mJNIM13y-wnqZCGH_-thdJo"/>](https://www.lumis.com.br/)
+[<img align="left" height="94px" width="94px" alt="Lumis" src="https://media.licdn.com/dms/image/v2/D4D0BAQGoAuouulr_EQ/company-logo_100_100/company-logo_100_100/0/1705321986785/lumis_logo?e=1735776000&v=beta&t=OHBc0gReThRF-YybcB5zvmt4pAvLsDXAguCna02IESY"/>](https://www.lumis.com.br/)
 
 <div style="margin-left:100px">
 
@@ -83,7 +83,7 @@ Projetos em destaque: [Previ](https://www.previ.com.br/portal-previ/)
 
 </div>
 
-[<img align="left" height="94px" width="94px" alt="Nubank" src="https://media.licdn.com/dms/image/C4E0BAQHkXmYPlxlOew/company-logo_100_100/0/1630593705779?e=1725494400&v=beta&t=KBNNBx15sYX4IgANUvmUuLVuoY-vaEPAzI86cz_Pbq0"/>](https://mestrainfo.com.br/site/)
+[<img align="left" height="94px" width="94px" alt="Mestra Informática e Tecnologia" src="https://media.licdn.com/dms/image/v2/C4E0BAQHkXmYPlxlOew/company-logo_100_100/company-logo_100_100/0/1630593705779?e=1735776000&v=beta&t=sj33KUH1DH4vkvHK-d9E61vsGv8_s9cmn5RU0j5ApR0"/>](https://mestrainfo.com.br/site/)
 
 <div style="margin-left:100px">
 
