@@ -1,34 +1,73 @@
-# Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 💼 Trabalhando como Engenheiro de Software Java na BRQ Digital Solutions.
-- 🌱 Aprendendo mais sobre Java, AWS e Docker.
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Bem+vindo+eu+sou+Gustavo+Martins!;Desenvolvedor+Java+%7C+AWS;)](https://git.io/typing-svg)
+  
+</div>
 
-## Minhas Skills
+## 🚀 Sobre mim
 
-### Aplicações e dados
+```javascript
+const Gustavo = {
+    localização: "Joinville, Santa Catarina, Brasil",
+    cargo: "Engenheiro de Software Java",
+    empresa: "BRQ Digital Solutions",
+    focoAtual: ["Java", "AWS", "Docker", "Microsserviços"],
+    aprendendo: ["Cloud Architecture", "DevOps", "Best Practices"],
+    hobbies: ["Código", "Tecnologia", "Games"]
+};
+```
 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=spring&logoColor=007396)  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=00599C)  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular)  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)  ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)  ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)  
+## 🛠️ Tecnologias e Ferramentas
 
-### Utilidades
+### 💻 Linguagens e Frameworks
 
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk&logoColor=007396)
+![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring&logoColor=6DB33F)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=3178C6)
+![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular&logoColor=DD0031)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
 
-### DevOps
+### 🗄️ Bancos de Dados
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=4169E1)
+![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle&logoColor=F80000)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=4479A1)
+![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis&logoColor=DC382D)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-333333?style=flat&logo=microsoftsqlserver&logoColor=CC2927)
 
-### Ferramentas de desenvolvimento
+### ☁️ Cloud & DevOps
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)  
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=FFFFFF)
+![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab&logoColor=FC6D26)
 
-## GitHub Stats
+### 🔧 Ferramentas
 
-![Perfil do Gustavo Martins](https://github-readme-stats.vercel.app/api?username=gustavommartins&theme=dracula&show_icons=true)
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=intellijidea&logoColor=000000)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman&logoColor=FF6C37)
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia&logoColor=4000BF)  
 
-## Experiência de trabalho
+## 📊 Estatísticas do GitHub
 
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+<div align="center">
+  <a href="https://github.com/gustavommartins">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gustavommartins&theme=dracula" alt="Contribution Graph" />
+  </a>
+</div>
+
+## 💼 Experiência Profissional
+
+<details open>
+<summary><b>📋 Clique para ver minha trajetória profissional</b></summary>
+<br>
 
 ![BRQ](/empresas/brq_logo.jpg)  
 [**BRQ**](https://www.brq.com/) • Full-time  
@@ -60,10 +99,33 @@ Projetos em destaque: [Previ](https://www.previ.com.br/portal-previ/)
 Linguagens & Tecnologias: `Java`, `Angular`, `Docker`, `Git`, `Gitlab`, `Oracle`, `SQL Server`  
 Projetos em destaque: [Prevdata](https://www.prevdata.org.br/)
 
-## Certificações
+</details>
 
-![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png) ![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)
+## 🏆 Certificações
 
-## Onde me encontrar
+<div align="center">
 
-[![Linkedin](https://img.shields.io/badge/-Gustavo_Martins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-martins-7170a419a/)](https://www.linkedin.com/in/gustavo-martins-7170a419a/)  [![GitHub](https://img.shields.io/github/followers/gustavommartins?label=Gustavo&style=social)](https://github.com/gustavommartins)
+| Certificação | Emissor | Ano |
+|:---:|:---:|:---:|
+| [![AWS Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/aws-certified-cloud-practitioner) | Amazon Web Services | 2024 |
+| [![AWS Solutions Architect Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/aws-certified-solutions-architect-associate) | Amazon Web Services | 2024 |
+
+</div>
+
+## 🌐 Vamos nos conectar?
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-martins-7170a419a/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gustavommartins)
+
+
+</div>
+
+---
+
+<div align="center">
+  
+  ### ⭐ Gostou do meu perfil? Deixe uma estrela nos meus repositórios!
+  
+</div>
