@@ -3,7 +3,7 @@
     <div class="max-w-xl mx-auto">
       <div class="mb-8 flex justify-center">
         <img 
-          src="/GustavoMMartins/empresas/perfil.webp" 
+          src="/profile/perfil.webp" 
           alt="Gustavo Martins"
           class="w-24 h-24 rounded-full grayscale hover:grayscale-0 transition-all duration-700 cursor-pointer"
         />
