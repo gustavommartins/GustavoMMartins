@@ -69,7 +69,7 @@ const Gustavo = {
 <summary><b>📋 Clique para ver minha trajetória profissional</b></summary>
 <br>
 
-![BRQ](public/empresas/brq_logo.jpg)  
+![BRQ](public/empresas/brq_logo.webp)  
 [**BRQ**](https://www.brq.com/) • Full-time  
 **Software Engineer**  
 Linguagens & Tecnologias: `Java`, `AWS`, `Docker`, `Git`, `Github`  
@@ -77,7 +77,7 @@ Projetos em destaque: [Itaú](https://www.itau.com.br/)
 
 ---
 
-![DXC Technology](public/empresas/dxctechnology_logo.jpg)  
+![DXC Technology](public/empresas/dxctechnology_logo.webp)  
 [**DXC Technology**](https://dxc.com/br/pt) • Full-time  
 **Software Engineer**  
 Linguagens & Tecnologias: `Java`, `Angular`, `Docker`, `Git`, `Gitlab`, `Oracle DB`  
@@ -85,7 +85,7 @@ Projetos em destaque: [Petrobras](https://petrobras.com.br/)
 
 ---
 
-![Lumis](public/empresas/lumis_logo.jpg)  
+![Lumis](public/empresas/lumis_logo.webp)  
 [**Lumis**](https://www.lumis.com.br/) • Full-time  
 **Desenvolvedor Full-Stack**  
 Linguagens & Tecnologias: `Java`, `Angular`, `Docker`, `Git`, `Gitlab`, `Oracle`  
@@ -93,7 +93,7 @@ Projetos em destaque: [Previ](https://www.previ.com.br/portal-previ/)
 
 ---
 
-![Mestra Informática e Tecnologia](public/empresas/mestra_logo.jpg)  
+![Mestra Informática e Tecnologia](public/empresas/mestra_logo.webp)  
 [**Mestra Informática e Tecnologia**](https://mestrainfo.com.br/site/) • Full-time  
 **Desenvolvedor Full-Stack**  
 Linguagens & Tecnologias: `Java`, `Angular`, `Docker`, `Git`, `Gitlab`, `Oracle`, `SQL Server`  
@@ -107,8 +107,8 @@ Projetos em destaque: [Prevdata](https://www.prevdata.org.br/)
 
 | Certificação | Emissor | Ano |
 |:---:|:---:|:---:|
-| [![AWS Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/earner/earned/badge/b808850c-6cf7-4276-8c5a-d21222c6656f) | Amazon Web Services | 2023 |
-| [![AWS Solutions Architect Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/a91c740a-418a-4786-9fd2-e39fdc207a13) | Amazon Web Services | 2024 |
+| [<img src="public/certifications/practitioner.webp" width="100">](https://www.credly.com/earner/earned/badge/b808850c-6cf7-4276-8c5a-d21222c6656f) | Amazon Web Services | 2023 |
+| [<img src="public/certifications/architect.webp" width="100">](https://www.credly.com/badges/a91c740a-418a-4786-9fd2-e39fdc207a13) | Amazon Web Services | 2024 |
 
 </div>
 
