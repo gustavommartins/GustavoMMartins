@@ -7,7 +7,7 @@
         <a v-for="cert in certifications" :key="cert.id" 
            :href="cert.badgeUrl" target="_blank" rel="noopener noreferrer"
            class="flex items-center gap-4 group">
-          <img :src="cert.image" :alt="cert.name" 
+          <img :src="cert.image" alt = " `Selo de certificação $ { cert.name } da $ { cert.issuer }`" 
                class="w-12 h-12 rounded grayscale group-hover:grayscale-0 transition-all" />
           <div>
             <h3 class="text-sm font-medium text-stone-700 group-hover:text-stone-900">{{ cert.name }}</h3>
