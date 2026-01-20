@@ -26,7 +26,7 @@ const certifications = [
     name: 'AWS Certified Cloud Practitioner',
     issuer: 'Amazon Web Services',
     year: '2023',
-    image: 'https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png',
+    image: '/certifications/practitioner.webp',
     badgeUrl: 'https://www.credly.com/earner/earned/badge/b808850c-6cf7-4276-8c5a-d21222c6656f'
   },
   {
@@ -34,7 +34,7 @@ const certifications = [
     name: 'AWS Solutions Architect – Associate',
     issuer: 'Amazon Web Services',
     year: '2024',
-    image: 'https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png',
+    image: '/certifications/architect.webp',
     badgeUrl: 'https://www.credly.com/badges/a91c740a-418a-4786-9fd2-e39fdc207a13'
   }
 ]
