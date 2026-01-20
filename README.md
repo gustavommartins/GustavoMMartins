@@ -107,8 +107,8 @@ Projetos em destaque: [Prevdata](https://www.prevdata.org.br/)
 
 | Certificação | Emissor | Ano |
 |:---:|:---:|:---:|
-| [<img src="public/certifications/practitioner.webp" width="100">](https://www.credly.com/earner/earned/badge/b808850c-6cf7-4276-8c5a-d21222c6656f) | Amazon Web Services | 2023 |
-| [<img src="public/certifications/architect.webp" width="100">](https://www.credly.com/badges/a91c740a-418a-4786-9fd2-e39fdc207a13) | Amazon Web Services | 2024 |
+| [<img src="public/certifications/practitioner.webp" width="100" alt="AWS Certified Cloud Practitioner">](https://www.credly.com/earner/earned/badge/b808850c-6cf7-4276-8c5a-d21222c6656f) | Amazon Web Services | 2023 |
+| [<img src="public/certifications/architect.webp" width="100" alt="AWS Certified Solutions Architect – Associate">](https://www.credly.com/badges/a91c740a-418a-4786-9fd2-e39fdc207a13) | Amazon Web Services | 2024 |
 
 </div>
 
