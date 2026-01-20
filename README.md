@@ -69,7 +69,7 @@ const Gustavo = {
 <summary><b>📋 Clique para ver minha trajetória profissional</b></summary>
 <br>
 
-![BRQ](/empresas/brq_logo.jpg)  
+![BRQ](public/empresas/brq_logo.jpg)  
 [**BRQ**](https://www.brq.com/) • Full-time  
 **Software Engineer**  
 Linguagens & Tecnologias: `Java`, `AWS`, `Docker`, `Git`, `Github`  
@@ -77,7 +77,7 @@ Projetos em destaque: [Itaú](https://www.itau.com.br/)
 
 ---
 
-![DXC Technology](/empresas/dxctechnology_logo.jpg)  
+![DXC Technology](public/empresas/dxctechnology_logo.jpg)  
 [**DXC Technology**](https://dxc.com/br/pt) • Full-time  
 **Software Engineer**  
 Linguagens & Tecnologias: `Java`, `Angular`, `Docker`, `Git`, `Gitlab`, `Oracle DB`  
@@ -85,7 +85,7 @@ Projetos em destaque: [Petrobras](https://petrobras.com.br/)
 
 ---
 
-![Lumis](/empresas/lumis_logo.jpg)  
+![Lumis](public/empresas/lumis_logo.jpg)  
 [**Lumis**](https://www.lumis.com.br/) • Full-time  
 **Desenvolvedor Full-Stack**  
 Linguagens & Tecnologias: `Java`, `Angular`, `Docker`, `Git`, `Gitlab`, `Oracle`  
@@ -93,7 +93,7 @@ Projetos em destaque: [Previ](https://www.previ.com.br/portal-previ/)
 
 ---
 
-![Mestra Informática e Tecnologia](/empresas/mestra_logo.jpg)  
+![Mestra Informática e Tecnologia](public/empresas/mestra_logo.jpg)  
 [**Mestra Informática e Tecnologia**](https://mestrainfo.com.br/site/) • Full-time  
 **Desenvolvedor Full-Stack**  
 Linguagens & Tecnologias: `Java`, `Angular`, `Docker`, `Git`, `Gitlab`, `Oracle`, `SQL Server`  
